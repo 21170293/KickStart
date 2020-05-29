@@ -49,9 +49,9 @@ Our project Kickstart is a web application that enables us to provide education 
 <h4>Project excludes</h4>	
 	Live connectivity<br>
 	Video download option<br>
-<img src="https://img.icons8.com/cotton/30/000000/like--v1.png"/>
+
 </p>
-<h2> Watch it on Youtube</h2>
+<h2> Watch it on Youtube<img src="https://img.icons8.com/cotton/30/000000/like--v1.png"/></h2>
 
 <a href="https://www.youtube.com/watch?v=bmVCnvK2AKY" target="_blank"> Click  Here!</a>
 
